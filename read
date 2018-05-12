@@ -1,0 +1,5 @@
+You must Have to use Java windowBuilder in eclipse or netbeans 
+if you running the program then if you select the sender then it will work like Client and if u not then it work default as a server
+then you must have to enter the server's Ip and port number then click to connect
+then the two gui are connected throw a tcp socket 
+then you can enjoy your Chatting 
